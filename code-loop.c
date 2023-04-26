@@ -1,4 +1,4 @@
-#include "simplesh.c"
+#include "simplesh.h"
 
 /**
  * hsh - main shell loop

@@ -1,4 +1,4 @@
-#include "simplesh.c"
+#include "simplesh.h"
 
 /**
  * _strlen - returns the length of a string
